@@ -15,7 +15,7 @@ class LRModel(nn.Module):
         self.linear = nn.Linear(1, 1)
     def forward(self, x):
         return self.linear(x)
-
+ 
 # define model hyperparameter
 model = LRModel()
 optimizer = optim.SGD(model.parameters(), lr = 0.01)
