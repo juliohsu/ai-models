@@ -8,3 +8,4 @@ A block of artificial intelligence models self implemented with Pytorch.
 4 - Convulsion Neural Networks, (channels, kernel, padding & strid) + filter per area <br>
 5 - Recurrent Neural Networks, (time series ou sentences predictions) <br>
 6 - Gated Recurrent Unit Neural Networks, multiple gate, but with update and reset gate existing in the same cell simultaneous<br>
+7 - Linear Regression with Quantum Approximate Optimization Algorithm<br>
